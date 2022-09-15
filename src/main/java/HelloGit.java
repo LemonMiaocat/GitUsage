@@ -5,6 +5,7 @@ public class HelloGit {
         System.out.println("第二次修改！！！！！！");
         System.out.println("第二次热修改");
         System.out.println("在github上修改代码");
+        System.out.println("第三次修改");
     }
 
 }
